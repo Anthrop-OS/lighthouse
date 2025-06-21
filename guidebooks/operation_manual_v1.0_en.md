@@ -8,6 +8,8 @@ _An open-ended guide on how to engage in deep creative collaboration with AI, a 
 
 **Manifesto:** "Using the alchemy of thought to deconstruct chaos and explore the void."
 
+**Github:** https://github.com/Anthrop-OS/lighthouse
+
 ## Foreword: You Are Not Seeking Answers, You Are Building "Architectures of Thought"
 
 In the age of Large Language Models (LLMs), we are often troubled by a question: When AI can provide us with seemingly flawless "answers," what value remains in our own thinking?

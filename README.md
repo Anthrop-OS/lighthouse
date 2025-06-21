@@ -18,10 +18,10 @@
 
 ## “创世蓝图”：System Prompt v6.0
 
-这是本项目的核心——一份旨在将任何通用LLM“初始化”为高效思想伙伴的最终系统提示。
+这是本项目的核心——一份旨在将任何通用LLM“初始化”为高效思想伙伴的系统提示 (System Prompt)。
 
-*   **[查看中文版 (For Review)](./Prompts/System_Prompt_v6.0_CN.md)**
-*   **[View English Version (For Initialization)](./Prompts/System_Prompt_v6.0_EN.md)**
+*   **[查看中文版 (For Review)](./prompts/system_prompt_v6.0_CN.md)**
+*   **[View English Version (For Initialization)](./prompts/system_prompt_v6.0_EN.md)**
 
 ### 如何使用这份蓝图
 
@@ -37,8 +37,16 @@
 
 * 当前发布站点：https://wiarlawd.me/
 
+* 方法论：[思想建筑师操作手册 v1.0](./guidebook/v1.0.md)
+
 ## 贡献 (Contributing)
 
 这是一个开放的探索。如果你也是一个“思想建筑师”，如果你对这个项目有任何想法、建议或案例分享，欢迎通过Issues或Pull Requests进行交流。
 
 让我们共同建造这座“灯塔”。
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Attribution-NonCommercial-ShareAlike 4.0 International

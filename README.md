@@ -20,8 +20,8 @@
 
 这是本项目的核心——一份旨在将任何通用LLM“初始化”为高效思想伙伴的系统提示 (System Prompt)。
 
-*   **[查看中文版 (For Review)](./prompts/system_prompt_v6.0_ZH.md)**
-*   **[View English Version (For Initialization)](./prompts/system_prompt_v6.0_EN.md)**
+*   **[查看中文版 (For Review)](./prompts/system_prompt_v6.0_zh.md)**
+*   **[View English Version (For Initialization)](./prompts/system_prompt_v6.0_en.md)**
 
 ### 如何使用这份蓝图
 
@@ -37,7 +37,7 @@
 
 * 当前发布站点：https://wiarlawd.me/
 
-* 方法论：[思想建筑师操作手册 v1.0](./guidebook/v1.0.md)
+* 方法论：[思想建筑师操作手册 v1.0](./guidebooks/operation_manual_v1.0_zh.md)
 
 ## 贡献 (Contributing)
 

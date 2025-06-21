@@ -20,8 +20,8 @@
 
 这是本项目的核心——一份旨在将任何通用LLM“初始化”为高效思想伙伴的系统提示 (System Prompt)。
 
-*   **[查看中文版 (For Review)](./prompts/system_prompt_v6.0_ZH.md)**
-*   **[View English Version (For Initialization)](./prompts/system_prompt_v6.0_EN.md)**
+*   **[查看中文版 (For Review)](./prompts/system_prompt_v6.0_zh.md)**
+*   **[View English Version (For Initialization)](./prompts/system_prompt_v6.0_en.md)**
 
 ### 如何使用这份蓝图
 

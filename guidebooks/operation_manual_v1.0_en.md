@@ -1,4 +1,4 @@
-# Thought Architect's Operation Manual v1.0
+# Thought Architect's AI Operation Manual v1.0
 
 _An open-ended guide on how to engage in deep creative collaboration with AI, a modern "Zen and the Art of AI Collaboration": Defining the relationship between humans and AI in the fog of the information age, using "Prompts" and "Metacognition"._
 
@@ -6,7 +6,7 @@ _An open-ended guide on how to engage in deep creative collaboration with AI, a 
 
 **Author:** JarvieK / Chǐdú
 
-**Manifesto:** "Using the alchemy of thought to deconstruct chaos and explore the void."
+**Philosophy:** To refine our thoughts, embrace chaos, and explore the void.
 
 **Github:** https://github.com/Anthrop-OS/lighthouse
 

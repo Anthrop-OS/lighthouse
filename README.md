@@ -1,3 +1,5 @@
+<a href="https://discord.gg/qcBMhXhuda"><img src="https://img.shields.io/badge/join-discord-blue"/></a>
+
 # Architect of Thought 思想的建筑师
 
 > "用思想的炼金术，解构混沌，探索虚空。"

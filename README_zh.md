@@ -41,7 +41,7 @@
 
 * 当前发布站点：https://wiarlawd.me/
 
-* 方法论：[思想建筑师操作手册 v1.0](./guidebooks/operation_manual_v1.0_zh.md)
+* 方法论：[思想建筑师AI操作手册](operation_manual_zh.md)
 
 ## 贡献 (Contributing)
 

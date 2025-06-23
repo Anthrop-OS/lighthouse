@@ -41,7 +41,7 @@ In this section, I will continuously share the "crystallizations" produced by th
 
 - Current Publication Site: https://wiarlawd.me/
     
-- Methodology: [Architect of Thought: Operation Manual v1.0](./guidebooks/operation_manual_v1.0_en.md)
+- Methodology: [Thought Architect's AI Operation Manual](operation_manual_en.md)
     
 
 ## Contributing
